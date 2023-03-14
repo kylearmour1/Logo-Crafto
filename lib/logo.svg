@@ -1,6 +1,6 @@
 
         <svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">
         <rect x="0" y="25" width="250" height="150" fill="Blue" />
-        <text x="110" y="125" font-size="60" text-anchor="middle" fill="Yellow">FJB</text>
+        <text x="110" y="125" font-size="60" text-anchor="middle" fill="Yellow">ABC</text>
         </svg>
         
