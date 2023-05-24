@@ -44,8 +44,7 @@
 
   https://github.com/kylearmour1/Logo-Crafto
 
-  Screen Recording: 
-https://drive.google.com/file/d/1ivUcuQjlwoXx-ZAHFwKRy-2j2eywJyWX/view
+  Screen Recording: https://drive.google.com/file/d/1ivUcuQjlwoXx-ZAHFwKRy-2j2eywJyWX/view
 
 
 
